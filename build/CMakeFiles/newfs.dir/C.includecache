@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/guests/190110722/user-land-filesystem/fs/newfs/include/ddriver.h
+ddriver_ctl_user.h
+/home/guests/190110722/user-land-filesystem/fs/newfs/include/ddriver_ctl_user.h
+stdio.h
+/home/guests/190110722/user-land-filesystem/fs/newfs/include/stdio.h
+
+/home/guests/190110722/user-land-filesystem/fs/newfs/include/ddriver_ctl_user.h
+sys/ioctl.h
+-
+
+/home/guests/190110722/user-land-filesystem/fs/newfs/include/newfs.h
+stdio.h
+/home/guests/190110722/user-land-filesystem/fs/newfs/include/stdio.h
+stdlib.h
+/home/guests/190110722/user-land-filesystem/fs/newfs/include/stdlib.h
+unistd.h
+-
+fcntl.h
+/home/guests/190110722/user-land-filesystem/fs/newfs/include/fcntl.h
+string.h
+/home/guests/190110722/user-land-filesystem/fs/newfs/include/string.h
+fuse.h
+/home/guests/190110722/user-land-filesystem/fs/newfs/include/fuse.h
+stddef.h
+-
+ddriver.h
+/home/guests/190110722/user-land-filesystem/fs/newfs/include/ddriver.h
+errno.h
+/home/guests/190110722/user-land-filesystem/fs/newfs/include/errno.h
+types.h
+/home/guests/190110722/user-land-filesystem/fs/newfs/include/types.h
+
+/home/guests/190110722/user-land-filesystem/fs/newfs/include/types.h
+
+/home/guests/190110722/user-land-filesystem/fs/newfs/src/newfs_utils.c
+../include/newfs.h
+/home/guests/190110722/user-land-filesystem/fs/newfs/include/newfs.h
+

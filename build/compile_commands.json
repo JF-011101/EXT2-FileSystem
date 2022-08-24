@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/guests/190110722/user-land-filesystem/fs/newfs/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/guests/190110722/user-land-filesystem/fs/newfs/./include   -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g   -o CMakeFiles/newfs.dir/src/newfs.c.o   -c /home/guests/190110722/user-land-filesystem/fs/newfs/src/newfs.c",
+  "file": "/home/guests/190110722/user-land-filesystem/fs/newfs/src/newfs.c"
+},
+{
+  "directory": "/home/guests/190110722/user-land-filesystem/fs/newfs/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/guests/190110722/user-land-filesystem/fs/newfs/./include   -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g   -o CMakeFiles/newfs.dir/src/newfs_debug.c.o   -c /home/guests/190110722/user-land-filesystem/fs/newfs/src/newfs_debug.c",
+  "file": "/home/guests/190110722/user-land-filesystem/fs/newfs/src/newfs_debug.c"
+},
+{
+  "directory": "/home/guests/190110722/user-land-filesystem/fs/newfs/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/guests/190110722/user-land-filesystem/fs/newfs/./include   -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g   -o CMakeFiles/newfs.dir/src/newfs_utils.c.o   -c /home/guests/190110722/user-land-filesystem/fs/newfs/src/newfs_utils.c",
+  "file": "/home/guests/190110722/user-land-filesystem/fs/newfs/src/newfs_utils.c"
+}
+]
